@@ -1,1 +1,9 @@
-# ng-designs
+### Personal info:
+* Name: Nafis Gimranov
+* Location: Uzbekistan, Bukhara  
+* Age: 34
+* Email: nafis.gimranov@gmail.com
+### Objective:
+* Trainee of _**RS School Android Developer Course**_
+### Education:
+* Only hardcore - only self-education!
