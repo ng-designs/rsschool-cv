@@ -1,1 +1,1 @@
- https://ng-designs.github.io/rsschool-cv/cv
+ https://ng-designs.github.io/rsschool-cv/
